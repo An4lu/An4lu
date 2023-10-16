@@ -1,7 +1,6 @@
 ## Hello World, sou a Ana <3
 
-- Atualmente trabalho na Lab2Dev 🤳
-- Estudando JavaScript, React, TypeScript e SAP UI5 📚👩‍💻
+- Estudando JavaScript, React e TypeScript 📚👩‍💻
 
 <div>
   <a href="https://github.com/An4lu">
