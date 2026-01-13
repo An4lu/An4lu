@@ -32,9 +32,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{An4lu}/count.svg" /></p> 
+<div align="center"> 
+![](https://komarev.com/ghpvc/?username=An4lu&color=ff69b4&style=flat-square)
 <br>
 </div>
 
