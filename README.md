@@ -15,6 +15,8 @@ ________________________________________________________________________________
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=c877f9)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117&logoColor=c877f9)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=c877f9)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=c877f9&labelColor=0D1117)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=c877f9&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=c877f9)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=csswizardry&logoColor=c877f9&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0D1117?logo=c&labelColor=0D1117&style=for-the-badge&logoColor=c877f9)&nbsp;
